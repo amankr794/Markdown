@@ -1,0 +1,41 @@
+i> Use Case of Markdown: Markdowm Syntak is used for creating Read me file for a directory on Github.
+
+ii> Extension of Markdown file->> .md
+
+iii> The syntak of markdown is almost similar to html but w/o use of angular brackets.
+
+iv> Heading in markdown: 3 types of heading in markdown(heading starts with # symbol)
+    a> # -->  Bigger heading
+    b> ## --> Smaller heading
+    c> ### --> Smallest Heading
+
+v> For new line: Hit enter
+
+vi> Horizontal line: ---
+
+vii> Bold text: **text**  (double astrik)
+viii> Italic text: *text*  (single astrik)
+
+ix> Block qoute: > this is a blockquote  (for greish highlight background)
+
+x> for small(single line) code: `code`  (single back ticks)
+
+xi> for bigger(multi line) code: 
+
+```cpp
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Aman Kumar";
+}
+``` 
+(three back ticks)
+
+xii> link: [text as link](url)
+xiii> image: ![alt text](url of image)
+
+xiv> checked text: - [x] this is a list
+xv> unchecked text: - [ ] this is a list
+
+xvi> table(using pipe):  | heading 1 | heading 2 | heading 3 |
+                         | --- | --- | --- |
